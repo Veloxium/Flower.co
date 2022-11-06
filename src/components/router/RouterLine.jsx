@@ -12,7 +12,7 @@ const RouterLine = () => {
   return (
     <div>
     <Routes>
-        <Route exact path="/" element={<><Header/><Home/><Featured/><Guide/><Promo/></>} />
+        <Route exact path="/flower-co" element={<><Header/><Home/><Featured/><Guide/><Promo/></>} />
         <Route path="/on-progress" element={<><HeaderBack/><OnProgress/></>} />
     </Routes>
     </div>

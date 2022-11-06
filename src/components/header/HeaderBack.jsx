@@ -9,11 +9,11 @@ const HeaderBack = () => {
     <div className='header'>
         <Navbar fixed="top" bg="pink" expand="lg">
       <Container>
-        <Link to="/"><Navbar.Brand>Flower.Co</Navbar.Brand></Link>
+        <Link to="/flower-co"><Navbar.Brand>Flower.Co</Navbar.Brand></Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Link className='px-3 nav-link'to='/'>Home</Link>
+            <Link className='px-3 nav-link'to='/flower-co'>Home</Link>
             <Link className='px-3 cart nav-link' to="/on-progress"><CartPlusFill size={25} className='cartplusfill'/></Link>
           </Nav>
         </Navbar.Collapse>
