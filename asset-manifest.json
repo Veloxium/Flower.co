@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/flower-co/static/css/main.f6ae8809.css",
+    "main.js": "/flower-co/static/js/main.2270f6ef.js",
+    "static/js/787.396bdd20.chunk.js": "/flower-co/static/js/787.396bdd20.chunk.js",
+    "static/media/flower-footer.png": "/flower-co/static/media/flower-footer.9fa45cc55276d6a9cc45.png",
+    "static/media/flower10.png": "/flower-co/static/media/flower10.41c0f1f9260f07b9e0b7.png",
+    "static/media/flower6.png": "/flower-co/static/media/flower6.b2f20490b3ab582a12d8.png",
+    "static/media/flower5.png": "/flower-co/static/media/flower5.313ed09eb9e69bed8f60.png",
+    "static/media/bg.png": "/flower-co/static/media/bg.e940847b9b26cbbd6b3c.png",
+    "static/media/flower2.png": "/flower-co/static/media/flower2.09f89dc6ab749c7bc351.png",
+    "static/media/flower8.png": "/flower-co/static/media/flower8.92b5e9b53d9e05f39bd2.png",
+    "static/media/flower3.png": "/flower-co/static/media/flower3.2e1e8b3bf6d444b67f93.png",
+    "static/media/flower4.png": "/flower-co/static/media/flower4.850e83a8c3e76d738f70.png",
+    "static/media/flower1.png": "/flower-co/static/media/flower1.d121d2542385f29d0faa.png",
+    "static/media/flower7.png": "/flower-co/static/media/flower7.c6cbb8dd8d16e6dfcf3f.png",
+    "static/media/bg2.png": "/flower-co/static/media/bg2.faa6fa81b1fd924f2f34.png",
+    "static/media/flower9.png": "/flower-co/static/media/flower9.2b17addd22ec3862f635.png",
+    "static/media/flower1.svg": "/flower-co/static/media/flower1.b684b59d587a237b1a7a.svg",
+    "index.html": "/flower-co/index.html",
+    "main.f6ae8809.css.map": "/flower-co/static/css/main.f6ae8809.css.map",
+    "main.2270f6ef.js.map": "/flower-co/static/js/main.2270f6ef.js.map",
+    "787.396bdd20.chunk.js.map": "/flower-co/static/js/787.396bdd20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6ae8809.css",
+    "static/js/main.2270f6ef.js"
+  ]
+}
