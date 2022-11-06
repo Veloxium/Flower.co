@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flower-co/static/css/main.82d4c584.css",
-    "main.js": "/flower-co/static/js/main.59e3157c.js",
+    "main.css": "/flower-co/static/css/main.570a597a.css",
+    "main.js": "/flower-co/static/js/main.0d1c1877.js",
     "static/js/787.396bdd20.chunk.js": "/flower-co/static/js/787.396bdd20.chunk.js",
     "static/media/flower-footer.png": "/flower-co/static/media/flower-footer.9fa45cc55276d6a9cc45.png",
     "static/media/flower10.png": "/flower-co/static/media/flower10.41c0f1f9260f07b9e0b7.png",
@@ -18,12 +18,12 @@
     "static/media/flower9.png": "/flower-co/static/media/flower9.2b17addd22ec3862f635.png",
     "static/media/flower1.svg": "/flower-co/static/media/flower1.b684b59d587a237b1a7a.svg",
     "index.html": "/flower-co/index.html",
-    "main.82d4c584.css.map": "/flower-co/static/css/main.82d4c584.css.map",
-    "main.59e3157c.js.map": "/flower-co/static/js/main.59e3157c.js.map",
+    "main.570a597a.css.map": "/flower-co/static/css/main.570a597a.css.map",
+    "main.0d1c1877.js.map": "/flower-co/static/js/main.0d1c1877.js.map",
     "787.396bdd20.chunk.js.map": "/flower-co/static/js/787.396bdd20.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82d4c584.css",
-    "static/js/main.59e3157c.js"
+    "static/css/main.570a597a.css",
+    "static/js/main.0d1c1877.js"
   ]
 }
