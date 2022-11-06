@@ -1,0 +1,109 @@
+.featured h1{
+    font-weight: 700;
+    letter-spacing: 0.1em ;
+    margin-bottom: 0px;
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.judul-center{
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-bottom: 50px;
+}
+.featured .judul-center img{
+    margin-right: 10px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.card img{
+    height:auto;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.5s ease;
+    cursor: pointer;
+    
+}
+.wrap{
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 5px 6px 5px 0px rgba(191,191,191,1);
+}
+.wrap .label{
+    position: absolute;
+    margin-top: 10%;
+    padding-left: 5%;
+    background-color: #D61C4E;
+    padding-right: 3%;
+    color: #fff;
+}
+.card{
+    border: 0px;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.col{
+    margin-left: auto;
+    margin-right: auto;
+}
+.row{
+    justify-content: center;
+}
+.card-body{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.card-title {
+    display: flex;
+    background-color: #FFA2BB;
+    padding: 2px;
+    border-radius: 2px;
+}
+.card-title:hover{
+    color: #fff;
+    background-color: #D61C4E;
+    transition: all 0.5s;
+}
+.seemore{
+    display: block;
+    margin-left: auto;
+    margin-right: 25px;
+    background-color: #D61C4E!important;
+    border: #D61C4E;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+a .seemore:hover{
+    background-color: #850E35!important;
+}
+.card:hover img{
+    transform: scale(1.5);
+}
+
+
+
+
+
+
+
+@media (max-width:345px) {
+    .ilang{width: 0px;height: 0px;overflow: hidden;;}
+}

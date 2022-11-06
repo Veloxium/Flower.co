@@ -1,0 +1,21 @@
+.bg-pink{
+    background-color: #D61C4E!important;
+}
+.nav-link{
+    color: #fff;
+}
+.navbar-brand{
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    font-style:normal ;
+}
+.navbar-toggler-icon{
+    background-image:url(./flower1.svg)!important;
+}
+.nav-link:hover{
+    transition: 0.5s ease;
+}
+.navbar-brand:hover{
+    transition: 0.5s ease;
+}

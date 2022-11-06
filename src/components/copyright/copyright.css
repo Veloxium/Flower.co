@@ -1,0 +1,10 @@
+.copyright{
+    background-color: #850E35 ;
+}
+.copyright .copyright-text{
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+    color: #FFF;
+    font-size: x-small;
+}

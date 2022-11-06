@@ -1,0 +1,132 @@
+.promo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.promo h1{
+    color: #fff;
+    font-weight: 700;
+    background-color: #D61C4E;
+    display: inline-flex;
+    padding-left: 10%;
+    margin-bottom: 50px;
+}
+.promo h1 span{
+    color: #D61C4E;
+    background-color: #FFA2BB;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: block;
+    justify-content: center;
+    align-self: center;
+
+}
+.right{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px ;
+    margin-top: 10px ;
+    margin-bottom: 10px ;
+    margin-right: 10px ;
+    box-shadow: 5px 6px 5px 0px rgba(191,191,191,1);
+}
+
+.bawah{
+    background-color: #FFA2BB;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.title{
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: #fff;
+}
+.isi{
+    background-color: #FFA2BB;
+    position: relative;
+
+}
+.isi .isi-text{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.text-right span{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.isi button{
+    color: #fff;
+    text-align: end;
+    justify-content: end;
+    display: block;
+    margin-left: auto;
+    background-color: #D61C4E!important;
+    border: #D61C4E;
+    border-radius: 2px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.isi button:hover{
+    color: #fff;
+    background-color: #850E35!important;
+}
+.img-flower img{
+    width: 100%;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+.img-flower{
+    overflow: hidden;
+}
+.img-flower img:hover{
+    scale: 1.5;
+}
+.isi-text p{
+    margin-bottom: 30px;
+}
+p{
+    cursor: default;
+}
+.seemore-promo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #D61C4E!important;
+    border: #D61C4E;
+    border-radius: 2px;
+    margin-top: 20px;
+    width: 200px;
+    box-shadow: 5px 6px 5px 0px rgba(191,191,191,1);
+}
+.seemore-promo:hover{
+    background-color: #850E35!important;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1200px){
+    .right{flex-direction: column;}
+}
+
+
+    
+
+
+

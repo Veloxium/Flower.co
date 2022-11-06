@@ -1,0 +1,98 @@
+.footer{
+    background-color: #D61C4E;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.footer h1{
+    font-weight: 700;
+    letter-spacing: 0.1em ;
+    margin-bottom: 0px;
+    align-items: center;
+    justify-content: center;
+    padding: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #FFF;
+}
+.footer .judul-center img{
+    margin-right: 10px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.footer-text h3{
+    color: #FFF;
+    margin-top: 20px;
+    align-items: center;
+}
+.footer-flower img{
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    align-content: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 355px;
+    height: 361px;
+}
+.footer-flower{
+    overflow: hidden;
+}
+.footer-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.footer-menu .list{
+    margin-top: 30px;
+}
+.footer-menu li{
+    text-decoration:none;
+    list-style: none;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: small;
+    display: flex;
+    transition: all 0.3s ease;
+}
+.footer-menu li:hover{
+    text-decoration: underline;
+    color: #FFF;
+}
+.footer-menu ul{
+    margin: 0px;
+    padding: 0px;
+}
+.footer-menu h4, .footer-text h3{
+    color: #FFF;
+    cursor: default;
+    display: inline-block;
+}
+.footer-menu h4::after,.footer-text h3::after{
+    border-bottom: 5px solid #FFF;
+    content: "";
+    width: 100%;
+    border-radius: 25px;
+    display: block;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+.tag{
+    display: flex;
+    flex-direction: row;
+}
+.tag ul{
+    margin-right: 30px;
+}
+.icon{
+    margin-right: 5px;
+}
+.footer-menu .nav-link{
+    color: #000;
+}

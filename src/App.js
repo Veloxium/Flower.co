@@ -1,24 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import RouterLine from './components/router/RouterLine';
+import Footer from './components/footer/Footer';
+import {BrowserRouter as Router} from 'react-router-dom';
+import Copyright from './components/copyright/Copyright';
 
 function App() {
   return (
+    <Router>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <RouterLine />
+      <Footer />
+      <Copyright />
     </div>
+    </Router>
   );
 }
 
