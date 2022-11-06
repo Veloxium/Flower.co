@@ -7,11 +7,15 @@
     padding-bottom: 200px;
     justify-content: center;
 }
+.on h1{
+    margin-top: 5px;
+}
 .bg-custom{
     background-color: black!important;
 }
 .on-p{
-    margin: 0;
+    margin: 0px;
+    margin-bottom: 20px;
     background-color: #D61C4E;
     display: inline;
     padding-left: 5px;
@@ -20,4 +24,22 @@
     border-radius: 10px;
     padding-bottom: 2px;
     padding-top: 2px;
+}
+.promote{
+    margin-top: 10px;
+    font-weight: 700;
+    display: block;
+}
+.promote a h7{
+    color: #D61C4E!important;
+
+}
+.promote:hover{
+    color: #0B0B4A;
+}
+.ig{
+    color: #D61C4E!important;
+}
+.promote h7:hover{
+    text-decoration: underline;
 }
