@@ -32,23 +32,23 @@
     align-content: center;
     margin-top: auto;
     margin-bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
     display: block;
-    width: 355px;
-    height: 361px;
+    max-width: 355px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .footer-flower{
     overflow: hidden;
 }
+
 .footer-menu{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
 
 }
 .footer-menu .list{
     margin-top: 30px;
+    margin-right: 10px;
 }
 .footer-menu li{
     text-decoration:none;
